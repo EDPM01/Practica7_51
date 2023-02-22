@@ -59,4 +59,7 @@ a, .titulo, [lang]{
     color: blue;
 }
 
-/* selector  de desendientes */
+/* selector de desendientes */
+h3 + p {
+    background-color: aqua;
+}
